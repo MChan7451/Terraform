@@ -7,3 +7,6 @@ Terraform plan # to check what is the plan to be executed by apply command
 Terraform apply to apply the changes in main.tf file
 
 Instace will be created in the aws.
+
+
+Terrafrom destory # to avoid builling after your usage
